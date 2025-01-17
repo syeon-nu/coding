@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/제어문.md",
+                "file": "Python/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제어문"
+              "title": "무제 파일"
             }
           }
         ],
@@ -189,10 +189,13 @@
   },
   "active": "68ed7826fa21166c",
   "lastOpenFiles": [
-    "Python/입출력.md",
     "Python/변수 선언.md",
-    "Java/Java 기초.md",
+    "Python/자주 사용하는 함수.md",
+    "Python/Class.md",
     "Python/제어문.md",
+    "Python/입출력.md",
+    "Python/무제 파일.md",
+    "Java/Java 기초.md",
     "Python",
     "무제 파일.md",
     "Java/변수.md",
